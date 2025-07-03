@@ -58,7 +58,11 @@ This repository contains the implementation of the K-Nearest Neighbors (KNN) alg
 - Confusion Matrix
 - Decision Boundary (2D visualization)
 
----
+## Screenshots
+- ![Screenshot 2025-07-03 193550](https://github.com/user-attachments/assets/4073d87d-fa35-4244-badb-0717c47019fa)
+- ![Screenshot 2025-07-03 193608](https://github.com/user-attachments/assets/02d581b0-6d19-4d4f-9467-b9d090c25f91)
+- ![Screenshot 2025-07-03 193621](https://github.com/user-attachments/assets/bdb51754-adb6-4e19-bed3-994178c339e7)
+
 ## Conclusion
 - KNN is a simple yet powerful instance-based algorithm.
 - Normalization is crucial for distance-based models.
